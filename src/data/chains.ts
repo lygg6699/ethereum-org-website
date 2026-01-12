@@ -1672,9 +1672,6 @@ const chains = [
     chain: "henez",
   },
   {
-    name: "XCHAIN",
-    infoURL: "https://kuma.bid",
-    chainId: 94524,
     nativeCurrency: {
       name: "Ether",
       symbol: "ETH",
